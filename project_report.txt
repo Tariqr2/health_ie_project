@@ -1,0 +1,20 @@
+
+Clinical Information Extraction — Prompt-Based Experiment
+----------------------------------------------------------
+Model: google/flan-t5-large
+Samples: 20
+Disease accuracy:  70.0 %
+Severity accuracy: 100.0 %
+
+Notes:
+- Zero-shot → model repeated template
+- One-shot → partial extraction
+- Few-shot → consistent disease extraction
+- Two-step prompting + sampling → improved severity
+
+Conclusion:
+Using open-source FLAN-T5 models, prompt engineering alone
+achieves meaningful structured extraction for short clinical
+notes, mirroring the early stages of Shan Wang et al. (2024).
+
+Generated automatically by your notebook.

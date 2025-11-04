@@ -1,0 +1,21 @@
+text,disease,severity,pred_disease,pred_severity
+Patient has mild asthma with occasional cough,asthma,mild,asthma,mild
+Severe pneumonia detected after X-ray,pneumonia,severe,pneumonia,severe
+Flu symptoms are moderate and improving,flu,moderate,flu,moderate
+Patient reports mild headache and fatigue,headache,mild,none,mild
+No sign of fever or cold,none,none,none,none
+Severe asthma attack requiring hospitalization,asthma,severe,asthma,severe
+Moderate allergy reaction observed on skin,allergy,moderate,allergy,moderate
+Patient shows mild fever and sore throat,fever,mild,fever,mild
+Severe infection spreading rapidly,infection,severe,swine flu,severe
+Moderate migraine causing light sensitivity,migraine,moderate,migraine,moderate
+Patient experiences mild joint pain after exercise,joint pain,mild,joint pain,mild
+Severe diarrhea due to food poisoning,diarrhea,severe,diarrhea,severe
+Moderate cough and chest pain observed,cough,moderate,none,moderate
+Mild skin rash after medication,skin rash,mild,none,mild
+Severe stomach ulcer identified during examination,ulcer,severe,stomach ulcer,severe
+Moderate sinus infection treated with antibiotics,sinus infection,moderate,sinus infection,moderate
+Patient suffers from mild anxiety and stress,anxiety,mild,anxiety,mild
+Severe dehydration after long fever,dehydration,severe,fever,severe
+Moderate flu symptoms persist for two days,flu,moderate,flu,moderate
+Patient shows mild cold and nasal blockage,cold,mild,cold,mild
